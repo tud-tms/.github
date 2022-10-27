@@ -1,12 +1,7 @@
-## Hi there 👋
+Our activities focus on the scientific and practical representation of complex transport systems to help improve sustainable human mobility. Transport models and simulation form the basis for much of the evidence base to inform decision-making on vast spans of infrastructure planning, management as well as real-time optimization. The three research goals of the Chair span the range of the aforementioned challenges:
 
-<!--
+*Scientific Representation:* Research new methodologies to enhance the mathematical foundation for transport modelling aross the spectrum of microscopic, macroscopic and mesoscopic scales. This includes traveller behaviour in the context of real-time information and unfamiliar/disrupted conditions.
 
-**Here are some ideas to get you started:**
+*Computational Performance:* Develop new tools that enable larger-scale and automated analysis through the usage of emerging techniques spanning machine learning, AI, Big Data and Digital Twins.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*Interdisciplinary Scope:* Explore inter-domain applications for transport modelling, including ethics-based metrics (including sustainability & equity), energy, health, and automation.
