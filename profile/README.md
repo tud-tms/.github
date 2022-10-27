@@ -1,4 +1,4 @@
-Transport models and simulation form the basis for much of the evidence base to inform decision-making on vast spans of infrastructure planning, management as well as real-time optimization. The three research goals of the Chair span the range of the aforementioned challenges:
+Transport models and simulation form the basis for much of the evidence base to inform decision-making on vast spans of infrastructure planning, management as well as real-time optimization. The research goals of the Chair span the range of the aforementioned challenges:
 
 - **Scientific Representation:** Research new methodologies to enhance the mathematical foundation for transport modelling aross the spectrum of microscopic, macroscopic and mesoscopic scales. This includes traveller behaviour in the context of real-time information and unfamiliar/disrupted conditions.
 
